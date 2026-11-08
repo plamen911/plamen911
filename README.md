@@ -1,4 +1,6 @@
-### Plamen Markov – Senior Backend Engineer
+### Plamen Markov – Senior Backend & AI Engineer
+
+[plamen.lynxlake.org](https://plamen.lynxlake.org/) – profile, projects and an AI assistant that answers questions about my work.
 
 I build LLM features into production software and own them after launch: a tool-calling agent that is never allowed to compute a figure itself, a Claude plugin held to an LLM-judge eval suite, an MCP server published on npm, and vision OCR. Before that, two decades of remote backend work, most of it as the engineer responsible for the whole system – one platform for 13 years, from architecture and data model to rollout and maintenance. PHP and Laravel are the foundation; TypeScript and LLM integration are where the work is heading.
 
@@ -14,4 +16,4 @@ Pleven, Bulgaria (Europe/Sofia).
 - Earlier, fire-expert.uk – a Bulgarian RAG assistant (PostgreSQL + pgvector, hybrid search, Cohere rerank), built and run end to end; no longer maintained.
 - ADR Zone – an offline dangerous-goods reference for emergency responders, React Native / Expo, on the App Store.
 
-Available for fully remote B2B contract work · [Website](https://plamen.lynxlake.org/) · [LinkedIn](https://www.linkedin.com/in/plamen-markov-14254965/)
+Available for remote B2B contract work, part-time to full-time · [Website](https://plamen.lynxlake.org/) · [LinkedIn](https://www.linkedin.com/in/plamen-markov-14254965/)
